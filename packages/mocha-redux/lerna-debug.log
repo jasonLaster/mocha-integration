@@ -1,0 +1,13 @@
+lerna(info)    Lerna v2.0.0-beta.30
+lerna(error)   Errored while collecting packages and package graph
+    SyntaxError: /Users/jlaster/src/_os/mocha-integration/packages/mocha-redux/package.json: Unexpected string
+        at Object.parse (native)
+        at Object.Module._extensions..json (module.js:430:27)
+        at Module.load (module.js:357:32)
+        at Function.Module._load (module.js:314:12)
+        at Module.require (module.js:367:17)
+        at require (internal/module.js:16:19)
+        at /usr/local/lib/node_modules/lerna/lib/PackageUtilities.js:83:27
+        at Array.forEach (native)
+        at Function.getPackages (/usr/local/lib/node_modules/lerna/lib/PackageUtilities.js:71:63)
+        at BootstrapCommand.runPreparations (/usr/local/lib/node_modules/lerna/lib/Command.js:132:52)

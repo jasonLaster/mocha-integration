@@ -1,0 +1,19 @@
+{
+  "name": "mocha-integration",
+  "version": "0.0.1",
+  "description": "Mocha Integration Runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonLaster/mocha-integration.git"
+  },
+  "author": "Jason Laster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonLaster/mocha-integration/issues"
+  },
+  "homepage": "https://github.com/jasonLaster/mocha-integration#readme"
+}
