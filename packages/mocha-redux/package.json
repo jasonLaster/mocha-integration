@@ -1,14 +1,13 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "mocha-integration": "^0.0"
+  },
   "name": "mocha-redux",
   "version": "0.0.1",
   "description": "Mocha Integraton Runner for React + Redux Apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "mocha-integration": "^0.0"
   },
   "author": "",
   "license": "ISC"
